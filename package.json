@@ -1,0 +1,10 @@
+{
+  "name": "discord-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "readline-sync": "^1.4.7"
+  }
+}
